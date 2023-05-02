@@ -30,8 +30,7 @@ All Cohorts had significant differences in GPA across all time periods. All tren
 
 Cohort1 and Cohort 2 show the same trend for Math that they did in the overall cohort comparison above.
 
-Science
-[sci](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Sci2.pdf)
+[Science](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Sci2.pdf)
 
 Cohort 1 had significant differences in GPA across all time periods. Cohort 2 had significant differences in GPA across all time periods with the exception of the precovid-remote comparison. Cohort 3 had a significant difference in GPA in the remote-return compassion only. Cohort 4 had significant differences in GPA across all time periods with the exception of the remote-return comparison, which matches the overall trend seen in the cumulative comparison above. All trends show a decrease in GPA over all significant time period comparisons with the exception of cohort 1’s remote to return comparison, which shows an increase. 
 
