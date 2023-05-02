@@ -63,19 +63,32 @@ The Virginia Child Data Core (VCDC) will build on the collaboration between EHD,
 
 ### Data Science Graduate Students
 
-![alt text](https://github.com/roryblakc/3Cavs-ACPS/blob/[branch]/image.jpg?raw=true)
+<img align="left" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/Rory.jpeg?raw=true"> 
+<strong>Rory Black.</strong> Rory Black is a current graduate student at the University School of Data Science in the M.S. in Data Science program expected to graduate in May 2023. She received a bachelor’s degree in mathematics from the University of Mary Washington in Fredericksburg, VA. Her involvement in the ACPS Student Wellbeing project began in October 2022. She is intrigued by the data storytelling process through the use of visualizations and hopes to use that in her professional work post-graduation.
+<br clear="left"/>
 
-**Rory Black.** Rory Black is a current graduate student at the University School of Data Science in the M.S. in Data Science program expected to graduate in May 2023. She received a bachelor’s degree in mathematics from the University of Mary Washington in Fredericksburg, VA. Her involvement in the ACPS Student Wellbeing project began in October 2022. She is intrigued by the data storytelling process through the use of visualizations and hopes to use that in her professional work post-graduation.
-
-
-**Gargee Jagtap.** Gargee Jagtap is a graduate student at the University of Virginia earning her masters in the Data Science program. She graduated from the University of Illinois Urbana-Champaign with bachelor’s in both math and statistics. She has been involved with the ACPS Student Wellbeing project since September 2022, and is excited to continue learning about building predictive models for forecasting after graduation.  
-
-
-**Ali Rivera.** Ali Rivera is a Graduate student in the 2023 MS in Data Science program at UVA. She holds a BA in Chemistry and a BA in Education: Subject Matter Teaching from Rowan University in her home state of New Jersey. Her experience teaching 10th-grade Chemistry in northern New Jersey made her passionate about using data to support student success and address inequities, especially for sensitive populations. She has been involved with the ACPS Student Wellbeing project since June 2022 and looks forward to continuing her career in the intersection of Data Science and Education.  
+<img align="right" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/Gargee.jpeg?raw=true"> 
+<strong>Gargee Jagtap.</strong> Gargee Jagtap is a graduate student at the University of Virginia earning her masters in the Data Science program. She graduated from the University of Illinois Urbana-Champaign with bachelor’s in both math and statistics. She has been involved with the ACPS Student Wellbeing project since September 2022, and is excited to continue learning about building predictive models for forecasting after graduation.  
+<br clear="right"/>
 
 
-**David Siamon.** David Siamon is currently finishing his MS in Data Science at the University of Virginia (UVA). He studied at UVA for his undergraduate degrees as well, double-majoring in mathematics and computer science. After graduating, he will be working at Optiver in their Amsterdam office as a Quantitative Trader.  
+<img align="left" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/Ali.jpeg?raw=true">  
+<strong>Ali Rivera.</strong> Ali Rivera is a Graduate student in the 2023 MS in Data Science program at UVA. She holds a BA in Chemistry and a BA in Education: Subject Matter Teaching from Rowan University in her home state of New Jersey. Her experience teaching 10th-grade Chemistry in northern New Jersey made her passionate about using data to support student success and address inequities, especially for sensitive populations. She has been involved with the ACPS Student Wellbeing project since June 2022 and looks forward to continuing her career in the intersection of Data Science and Education.  
+<br clear="left"/>
 
+<img align="right" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/David.jpeg?raw=true"> 
+<strong>David Siamon.</strong> David Siamon is currently finishing his MS in Data Science at the University of Virginia (UVA). He studied at UVA for his undergraduate degrees as well, double-majoring in mathematics and computer science. After graduating, he will be working at Optiver in their Amsterdam office as a Quantitative Trader.  
+<br clear="right"/>
+
+### UVA Partners
+
+[Joshua Reyes, M.D.](https://med.virginia.edu/pediatrics/divisions/developmental-behavioral-pediatrics/fellowship-program/our-fellows/), Fellow, School of Medicine  
+
+[Supporting Transformative Autism Research](https://education.virginia.edu/research-initiatives/research-centers-labs/supporting-transformative-autism-research), School of Education and Human Development  
+* [Rose Nevill](https://education.virginia.edu/about/directory/rose-nevill), Research Assistant Professor  
+* Emily Furhman, Research Associate  
+
+[Lora Henderson](https://education.virginia.edu/about/directory/lora-henderson-smith), Assistant Professor, School of Education and Human Development
 
 
 ## Achievement
