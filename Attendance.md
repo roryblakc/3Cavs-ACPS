@@ -1,6 +1,6 @@
 # Attendance
 
-[Rory Black](https://github.com/roryblakc/3Cavs-ACPS/main/README.md#project-team##data-science-graduate-students) & [David Siamon](https://github.com/roryblakc/3Cavs-ACPS/main/README.md#project-team##data-science-graduate-students)
+Rory Black & David Siamon
 
 To read the full paper developed by the attendance team, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20--%20Paper.pdf). Summarized results are included within this page.
 
