@@ -5,7 +5,11 @@ Tara Hofkens, Ph.D. (Education and Human Development)
 Brian Wright, Ph.D. (School of Data Science)  
 Richard Stevenson, M.D. (School of Medicine)  
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 To jump straight to results extending on the poster shown at the 3Cavaliers poster viewing session, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Results.md).
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 ## Project Overview
 
