@@ -73,7 +73,7 @@ The Virginia Child Data Core (VCDC) will build on the collaboration between EHD,
 
 
 <img align="left" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/Ali.jpeg?raw=true">  
-<a href="(https://www.linkedin.com/in/alexandra-a-rivera/)">Ali Rivera.</a> Ali Rivera is a Graduate student in the 2023 MS in Data Science program at UVA. She holds a BA in Chemistry and a BA in Education: Subject Matter Teaching from Rowan University in her home state of New Jersey. Her experience teaching 10th-grade Chemistry in northern New Jersey made her passionate about using data to support student success and address inequities, especially for sensitive populations. She has been involved with the ACPS Student Wellbeing project since June 2022 and looks forward to continuing her career in the intersection of Data Science and Education.  
+<a href="https://www.linkedin.com/in/alexandra-a-rivera/">Ali Rivera.</a> Ali Rivera is a Graduate student in the 2023 MS in Data Science program at UVA. She holds a BA in Chemistry and a BA in Education: Subject Matter Teaching from Rowan University in her home state of New Jersey. Her experience teaching 10th-grade Chemistry in northern New Jersey made her passionate about using data to support student success and address inequities, especially for sensitive populations. She has been involved with the ACPS Student Wellbeing project since June 2022 and looks forward to continuing her career in the intersection of Data Science and Education.  
 <br clear="left"/>
 
 <img align="right" width="150" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Headshots/David.jpeg?raw=true"> 
