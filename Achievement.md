@@ -1,5 +1,7 @@
 ## Achievement
 
+Ali Rivera & Gargee Jagtap
+
 When exploring the achievement data, our analysis focused on examining students grades across the same three covid epochs: pre-covid (2018-2019), remote (2020-2021), and return (2021-2022). Each student in our dataset had a unique academic ID, and for the remainder of this analysis we only looked at students that had complete data (at least one relevant course in each covid epoch). The within subject comparison (aka repeated measures) compares the same students to themselves across all three covid-time periods. This was the best way to assess how each student's trajectory changed over time as a result of the Covid-19 pandemic. 
 
 We wanted to see if there was an identifiable difference in trends for students that were in different grades during different points in the pandemic, by subject. For example, is there a difference in student performance for Cohort #1, who were in 6th grade pre-covid and in 9th grade when they returned to in-person learning, versus Cohort #4 where students were older (9th grade pre-covid to 12th grade return to in-person)? We examined this trend by each of the three core subjects: english, math, and science. 
