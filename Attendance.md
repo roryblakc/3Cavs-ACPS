@@ -1,10 +1,10 @@
 # Attendance
 
-[Rory Black](https://github.com/roryblakc/3Cavs-ACPS/edit/main/README.md#project-team#data-science-graduate-students) & [David Siamon]
+[Rory Black](https://github.com/roryblakc/3Cavs-ACPS/main/README.md#project-team##data-science-graduate-students) & [David Siamon](https://github.com/roryblakc/3Cavs-ACPS/main/README.md#project-team##data-science-graduate-students)
 
 To read the full paper developed by the attendance team, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20--%20Paper.pdf). Summarized results are included within this page.
 
-Our main goal when exploring
+Our main goal when exploring the attendance data was to determine which factors were significant in identifying students that display some kind of concern in regards to their attendance. It is clear to see that the number of absences increases significantly during the 2020-2021 (remote) school year.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
