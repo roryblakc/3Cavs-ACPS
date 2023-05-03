@@ -4,7 +4,13 @@ Rory Black & David Siamon
 
 To read the full paper developed by the attendance team, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20--%20Paper.pdf). Summarized results are included within this page.
 
-Our main goal when exploring the attendance data was to determine which factors were significant in identifying students that display some kind of concern in regards to their attendance. It is clear to see that the number of absences increases significantly during the 2020-2021 (remote) school year.
+Our main goal when exploring the attendance data was to determine which factors were significant in identifying students that display some kind of concern in regards to their attendance. It is clear to see that the number of absences increases significantly during the 2020-2021 (remote) school year. The plots below display the significant difference in the number of absences over the course of the 3 years, or epochs.
+
+<p align="center">
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/Picture1.png?raw=true"> 
+</p>
+
+The darker colors in the calendar plot above represent more unexcused absences. This plot contains information on both high schoolers and middle schoolers. On Fridays in the Remote school year have a much lighter value than other days in the same school year. That is due to classes being held asynchronously on all Fridays.
 
 _______________________________________________________________________________________________________________________________________________________________________
 
