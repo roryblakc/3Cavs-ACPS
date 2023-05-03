@@ -13,19 +13,27 @@ Below is the cohort breakdown by grade level the students were in for each time 
 |   3    | 8         | 10     | 11     |
 |   4    | 9         | 11     | 12     |
 
-[English](https://github.com/roryblakc/3Cavs-ACPS/blob/main/ELA2.pdf)
+<p align="center">
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/ELA2.jpg?raw=true"> 
+</p>
 
 Cohort 1, Cohort 2, and Cohort 3 had significant differences in GPA across all time periods, Cohort 4 had significant differences in GPA across all time periods with the exception of the remote-return comparison, which matches the overall trend seen in the cumulative comparison above. All trends show a decrease in GPA overall significant time period comparisons with the exception of cohort 1’s and cohort 3’s remote to return comparison, which shows an increase. 
 
 Cohort1, Cohort 2, and Cohort 4 show the same trend for ELA that they did in the overall cohort comparison above.
 
-[Math](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Math2.pdf)
+<p align="center">
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/Math2.jpg?raw=true"> 
+</p>
+
 
 All Cohorts had significant differences in GPA across all time periods. All trends show a decrease in GPA overall significant time period comparisons with the exception of cohort 1’s remote to return comparison, which shows an increase. 
 
 Cohort1 and Cohort 2 show the same trend for Math that they did in the overall cohort comparison above.
 
-[Science](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Sci2.pdf)
+<p align="center">
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/Sci2.jpg?raw=true"> 
+</p>
+
 
 Cohort 1 had significant differences in GPA across all time periods. Cohort 2 had significant differences in GPA across all time periods with the exception of the precovid-remote comparison. Cohort 3 had a significant difference in GPA in the remote-return compassion only. Cohort 4 had significant differences in GPA across all time periods with the exception of the remote-return comparison, which matches the overall trend seen in the cumulative comparison above. All trends show a decrease in GPA over all significant time period comparisons with the exception of cohort 1’s remote to return comparison, which shows an increase. 
 
