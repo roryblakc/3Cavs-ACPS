@@ -6,49 +6,40 @@ To read the full paper developed by the attendance team, [click here](https://gi
 
 Our main goal when exploring the attendance data was to determine which factors were significant in identifying students that display some kind of concern in regards to their attendance. It is clear to see that the number of absences increases significantly during the 2020-2021 (remote) school year. The plots below display the significant difference in the number of absences over the course of the 3 years, or epochs.
 
+## Exploratory Data Visuals
+
+<p align="center">
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/proportion%20absences3.png?raw=true"> 
+</p>
+
+The nested boxes above display how the proportion of types of absences changed over the 3 school years, or epochs. The most concerning thing about this visual is the significant change in unexcused absences when entering the remote school year. This increase can likely be attributed to the anxiety and disengagement seen in all students while learning in this remote format.
+
 <p align="center">
 <img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/Picture1.png?raw=true"> 
 </p>
 
-The darker colors in the calendar plot above represent more unexcused absences. This plot contains information on both high schoolers and middle schoolers. On Fridays in the Remote school year have a much lighter value than other days in the same school year. That is due to classes being held asynchronously on all Fridays.
+The darker colors in the calendar plot above represent more unexcused absences. This plot contains information on both high schoolers and middle schoolers. On Fridays in the Remote school year have a much lighter value than other days in the same school year. That is due to classes being held asynchronously on all Fridays during this year.  
 
-_______________________________________________________________________________________________________________________________________________________________________
-
-When exploring the achievement data, our analysis focused on examining students grades across the same three covid epochs: pre-covid (2018-2019), remote (2020-2021), and return (2021-2022). Each student in our dataset had a unique academic ID, and for the remainder of this analysis we only looked at students that had complete data (at least one relevant course in each covid epoch). The within subject comparison (aka repeated measures) compares the same students to themselves across all three covid-time periods. This was the best way to assess how each student's trajectory changed over time as a result of the Covid-19 pandemic. 
-
-We wanted to see if there was an identifiable difference in trends for students that were in different grades during different points in the pandemic, by subject. For example, is there a difference in student performance for Cohort #1, who were in 6th grade pre-covid and in 9th grade when they returned to in-person learning, versus Cohort #4 where students were older (9th grade pre-covid to 12th grade return to in-person)? We examined this trend by each of the three core subjects: english, math, and science. 
-
-Below is the cohort breakdown by grade level the students were in for each time period. Note we only included students for which we had data in each time period, so starting with the 6th graders in the pre-covid time period and ending with the students who were 12th graders in the return to inperson time period. 
-
-| Cohort | pre-covid | remote | return |
-| ------ | --------- | ------ | ------ |
-|   1    | 6         | 8      | 9      |
-|   2    | 7         | 9      | 10     |
-|   3    | 8         | 10     | 11     |
-|   4    | 9         | 11     | 12     |
+The following visuals give a better idea of the breakdown of unexcused absences for different demographic groups. Our choice to center in on *unexcused* absences comes from the aim of the project. Our aim is to identify students at risk, and those who are actively missing class without a reason are the ones we believe should be at the top of the list. With access to a lot of different descriptors for both the students and the courses, we chose to split on the following.
+* Grade Level
+* Ethnicity
+* Subject
 
 <p align="center">
-<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/ELA2.jpg?raw=true"> 
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/Picture2.png?raw=true"> 
 </p>
 
-Cohort 1, Cohort 2, and Cohort 3 had significant differences in GPA across all time periods, Cohort 4 had significant differences in GPA across all time periods with the exception of the remote-return comparison, which matches the overall trend seen in the cumulative comparison above. All trends show a decrease in GPA overall significant time period comparisons with the exception of cohort 1’s and cohort 3’s remote to return comparison, which shows an increase. 
-
-Cohort1, Cohort 2, and Cohort 4 show the same trend for ELA that they did in the overall cohort comparison above.
+This split on grade shows that there was a clear link between unexcused absences and grade level before the pandemic. It almost appears to be a near-perfect linear corelation where the later grade levels are recording more unexcused absences than the grade level before. During the pandemic, we see a different story where unexcused absences increase for all grade levels, and grade level does not appear to have a direct link to determining unexcused absence counts. Once again, we see the pattern of unexcused absences decreasing once students get back in the school building, but still, levels are not what they were before the pandemic.
 
 <p align="center">
-<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/Math2.jpg?raw=true"> 
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/Picture3.png?raw=true"> 
 </p>
 
+Although we are hesitant to make any kind of assumptions on causal relationships, we do see non-white students record a lot more unexcused absences than white students in all school years. Even though the difference is evident across all 3 school years, we are most concerned about the large difference in number of absences recorded in the remote school year. Again, we can only speculate, but this data gives us reason to believe that non-white students may require more attention when it comes to helping students become engaged with school in this post-pandemic era.
 
-All Cohorts had significant differences in GPA across all time periods. All trends show a decrease in GPA overall significant time period comparisons with the exception of cohort 1’s remote to return comparison, which shows an increase. 
-
-Cohort1 and Cohort 2 show the same trend for Math that they did in the overall cohort comparison above.
 
 <p align="center">
-<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Achievement%20Visuals/Sci2.jpg?raw=true"> 
+<img width="600" src="https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20Visuals/subjects.png?raw=true"> 
 </p>
 
-
-Cohort 1 had significant differences in GPA across all time periods. Cohort 2 had significant differences in GPA across all time periods with the exception of the precovid-remote comparison. Cohort 3 had a significant difference in GPA in the remote-return compassion only. Cohort 4 had significant differences in GPA across all time periods with the exception of the remote-return comparison, which matches the overall trend seen in the cumulative comparison above. All trends show a decrease in GPA over all significant time period comparisons with the exception of cohort 1’s remote to return comparison, which shows an increase. 
-
-Cohort1 and Cohort 4 show the same trend for ELA that they did in the overall cohort comparison above.
+Lastly, we wanted to evaluate unexcused absences grouped by the subject in which that absence fell. This plot can be examined alongside the acheivement team's findings because attendance and grades go hand-in-hand when evaluating student behavior.
