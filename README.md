@@ -5,6 +5,8 @@ Tara Hofkens, Ph.D. (Education and Human Development)
 Brian Wright, Ph.D. (School of Data Science)  
 Richard Stevenson, M.D. (School of Medicine)  
 
+To jump straight to results extending on the poster shown at the 3Cavaliers poster viewing session, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Results.md).
+
 ## Project Overview
 
 This project uses education and medical data to examine how behavior, achievement, learning problems, and mental health changed during the period of remote instruction (2020-2021) and return to in-person instruction (2021-2022), compared to the school year before the pandemic (2018-2019) among Albemarle County Public middle and high school students. The long-term goal of the project is to lay the foundation to apply for external funding to develop the [Virginia Child Data Core (VCDC)](https://github.com/roryblakc/3Cavs-ACPS/edit/main/README.md#future-work-virginia-child-data-core-vcdc), a relational database that integrates education and medical record data in order to better capture the state of children and adolescents’ well-being in communities, and to intervene more effectively to optimize their learning, development, and mental health. 
