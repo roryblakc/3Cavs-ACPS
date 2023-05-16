@@ -1,6 +1,8 @@
 # Attendance
 Graduate Students: Rory Black & David Siamon
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 To read the full paper developed by the attendance team, [click here](https://github.com/roryblakc/3Cavs-ACPS/blob/main/Attendance%20--%20Paper.pdf). Summarized results are included within this page.
 
 Our main goal when exploring the attendance data was to determine which factors were significant in identifying students that display some kind of concern in regards to their attendance. It is clear to see that the number of absences increases significantly during the 2020-2021 (remote) school year. The plots below display the significant difference in the number of absences over the course of the 3 years, or epochs.
