@@ -1,6 +1,7 @@
-## Achievement
+## ACPS Achievement
+Graduate Students: Ali Rivera & Gargee Jagtap
 
-Ali Rivera & Gargee Jagtap
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When exploring the achievement data, our analysis focused on examining students grades across the same three covid epochs: pre-covid (2018-2019), remote (2020-2021), and return (2021-2022). Each student in our dataset had a unique academic ID, and for the remainder of this analysis we only looked at students that had complete data (at least one relevant course in each covid epoch). The within subject comparison (aka repeated measures) compares the same students to themselves across all three covid-time periods. This was the best way to assess how each student's trajectory changed over time as a result of the Covid-19 pandemic. 
 
